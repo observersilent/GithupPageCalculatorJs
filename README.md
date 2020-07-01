@@ -6,4 +6,3 @@ git push --set-upstream origin develop
 ctrl + shift + p
 # Слияния ветки develop и master (master обновится, а develop останется)
 pull requests -> Compare & pull requests -> можно заполнить описание -> Create pull request -> Merge pull request
-# Меняем файл в develop_1
