@@ -8,3 +8,4 @@ ctrl + shift + p
 pull requests -> Compare & pull requests -> можно заполнить описание -> Create pull request -> Merge pull request
 # Меняем файл в develop_1
 # Еще немного бесполезных изменений
+# Еще больше бесполезных изменений
