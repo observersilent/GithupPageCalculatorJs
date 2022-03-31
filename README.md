@@ -1,4 +1,4 @@
-# GitHub Page
+# GitHub Page - реализовал калькулятор на JS + HTML + CSS
 https://observersilent.github.io/GithupPageCalculatorJs/
 
 # Примеры команд git
